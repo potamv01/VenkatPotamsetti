@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @potamv01
-- 👀 I’m interested in financial/public helath managment data analytics 
-- 🌱 I’m currently learning on a public helath informatics project by using Power BI 
-- 💞️ I’m looking to collaborate on leads to fulltime leadership roles that intersects helath and data or finanace and data. 
-- 📫 How to reach me, is on linkedin www.linkedin.com/in/venkat-potamsetti-dataanalyst
-- 😄 Pronouns: Mr 
-- ⚡ Fun fact: I love spending time in organising and stacking my daily good habbits 
+- ## 👋 Hi, I’m @VenkatPotamsetti
+- ## 👀 I’m passonate about data in financial/helath managment data analytics. 
+- ## 🌱 I’m currently working as a data analyst with a clinical team where I deal with complex and sensitive data. 
+- ## 💞️ I’m looking for fulltime roles that intersects leadership & data opportunities.
+- ## :clipboard: Key Skills SQL, Python, Advanced Excel, Tableau, PBI
+- ## 📫 How to reach me, is on linkedin www.linkedin.com/in/venkat-potamsetti-dataanalyst
+- ## 😄 Pronouns: Mr 
+- ## ⚡ Fun fact: I love spending time in organising and stacking my daily good habbits 
 
 <!---
 potamv01/potamv01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
