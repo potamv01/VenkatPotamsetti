@@ -1,7 +1,7 @@
 <p align="left">
   <img src="https://github.com/potamv01.png" width="150" height="150" style="border-radius:50%;">
 </p>
-# Hi, I’m Venkat Potamsetti
+# Hi, I’m **Venkat Potamsetti**  
 *Senior Healthcare & Business Data Analyst | SQL · Python · Power BI · Tableau · Healthcare Analytics*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=potamv01&label=Profile%20views&color=0e75b6&style=flat)
@@ -16,10 +16,10 @@ I design data models, build automated dashboards, and lead improvement projects 
 My goal: make healthcare systems more intelligent, transparent, and people-centred.
 
 ---
-
 ## 🩺 Core Expertise
+
 | Domain | Description |
-|---------|--------------|
+| :------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Data Analytics & BI** | SQL Server, Power BI, Tableau, Python, R — end-to-end data modelling, dashboards, and automation |
 | **Healthcare Intelligence** | NHS & clinical operations, referral pathways, patient engagement, wait-time analytics |
 | **Project & Process** | PRINCE2, SOP/workflow design, business case development, cross-team collaboration |
@@ -28,8 +28,9 @@ My goal: make healthcare systems more intelligent, transparent, and people-centr
 ---
 
 ## 🧱 Featured Projects
+
 | Project | Focus | Tech |
-|----------|--------|------|
+| :-------------------------------------------- | :---------------------------------------------------------- | :--------------------------- |
 | [**Referral Pathway Automation**](https://github.com/potamv01/referral-pathway-analytics) | Reduced admin load & wait times by automating referrals and KPIs | SQL, Power BI, Python |
 | [**Patient Survey Engagement Ops**](https://github.com/potamv01/patient-survey-engagement-ops) | Boosted feedback capture by 25% through automated prompts & uplift analysis | Python, R, Power BI |
 | [**Cycling Utilisation Forecasting (TFL)**](https://github.com/potamv01/tfl-cycling-forecasting-case-study) | Modelled utilisation patterns for urban-health data | Python, Pandas, Scikit-Learn |
@@ -52,6 +53,18 @@ My goal: make healthcare systems more intelligent, transparent, and people-centr
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=potamv01&layout=compact)
 
 ---
+
+## 📝 Publications & Articles
+
+| Title | Summary | Link |
+| :------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------- |
+| **Harnessing Artificial Intelligence to Improve Patient Safety** | Discusses how AI can enhance clinical decision-making, error prevention, and patient outcomes within healthcare systems. | [Read on Medium →](https://medium.com/@venkatpotamsetti/harnessing-artificial-intelligence-to-improve-patient-safety-73b3443bbc10) |
+| **Introduction** | A short reflection on data, technology, and the journey toward smarter healthcare analytics. | [Read on Medium →](https://medium.com/@venkatpotamsetti/introduction-e894c1344f1e) |
+
+> 🩺 *More writing on AI, healthcare analytics, and data-driven transformation coming soon.*
+
+---
+
 
 ## 🤝 Let’s Connect
 📧 **venkatpotamsetti@gmail.com**  
