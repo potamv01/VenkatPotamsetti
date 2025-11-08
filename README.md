@@ -37,7 +37,7 @@
 ---
 
 ## About Me
-I turn clinical and operational data into measurable outcomes for providers and health-tech teams—blending analytics engineering with delivery and governance. Recent outcomes include **budget +20%**, **admin time –30%**, and **survey capture +25%** through referral-pathway automation, KPI dashboards, and engagement ops. :contentReference[oaicite:0]{index=0}
+I turn clinical and operational data into measurable outcomes for providers and health-tech teams, blending analytics engineering with delivery and governance. Recent outcomes include **budget +20%**, **admin time –30%**, and **survey capture +25%** through referral-pathway automation, KPI dashboards, and engagement ops.
 
 ---
 
@@ -55,9 +55,9 @@ I turn clinical and operational data into measurable outcomes for providers and 
 
 | Project | Focus | Tech |
 | :-- | :-- | :-- |
-| **Referral Pathway Automation** | Cut admin & waits via automated KPIs, breach-risk alerts, “to-be” workflows | SQL, Python, Power BI :contentReference[oaicite:2]{index=2} |
-| **Patient Survey Engagement Ops** | +25% capture with prompt scheduling & uplift analysis | Python, R, Power BI :contentReference[oaicite:3]{index=3} |
-| **Cycling Utilisation (TfL)** | Forecasting +13% utilisation; policy-grade comms & dashboards | Python, Pandas, Scikit-Learn :contentReference[oaicite:4]{index=4} |
+| **Referral Pathway Automation** | Cut admin & waits via automated KPIs, breach-risk alerts, “to-be” workflows | SQL, Python, Power BI |
+| **Patient Survey Engagement Ops** | +25% capture with prompt scheduling & uplift analysis | Excel, Python, R, Power BI |
+| **Cycling Utilisation (TfL)** | Forecasting +13% utilisation; policy-grade comms & dashboards | Tableau, Python, Pandas, Scikit-Learn |
 
 ---
 ## 🎓 Certifications & Registration
