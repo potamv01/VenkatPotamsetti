@@ -1,5 +1,5 @@
 <!-- ===== HERO / HEADER ===== -->
-<p align="center">
+<p align="left">
   <!-- Optional hero banner (add /banner.png to your repo, or remove this line) -->
   <!-- <img src="banner.png" alt="Venkat Potamsetti – Healthcare Data & Analytics" width="100%"> -->
   
@@ -53,7 +53,7 @@ I turn clinical and operational data into measurable outcomes for providers and 
 | **Analytics & BI** | SQL Server, Python/R, Power BI/Tableau — end-to-end modelling, ETL, reproducible analysis |
 | **Healthcare Intelligence** | Referral pathways, wait-time & utilisation analytics, patient-reported outcomes |
 | **Delivery & Process** | PRINCE2 ways of working, SOPs, “to-be” workflow design, stakeholder comms |
-| **Impact** | Budget growth **+20%**, admin time **–30%**, survey capture **+25%** (privacy-safe, synthetic demos) :contentReference[oaicite:1]{index=1} |
+| **Impact** | Budget growth **+20%**, admin time **–30%**, survey capture **+25%** (privacy-safe, synthetic demos) |
 
 ---
 ## 🧱 Featured Projects
