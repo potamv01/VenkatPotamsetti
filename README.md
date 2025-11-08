@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://github.com/potamv01.png" width="150" height="150" style="border-radius:50%;">
 </p>
 # Hi, I’m **Venkat Potamsetti**
@@ -54,7 +54,7 @@ My goal: make healthcare systems more intelligent, transparent, and people-centr
 ---
 
 ## 🤝 Let’s Connect
-📧 **venkat@youremail.com**  
+📧 **venkatpotamsetti@gmail.com**  
 🌐 [LinkedIn – Venkat Potamsetti](https://www.linkedin.com/in/venkat-potamsetti-dataanalyst)  
 📍 Kent | Open to UK-based Data & Analytics roles in Healthcare and Health-Tech
 
