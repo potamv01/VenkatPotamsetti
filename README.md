@@ -1,79 +1,80 @@
-<p align="left">
-  <img src="https://github.com/potamv01.png" width="150" height="150" style="border-radius:50%;">
+<!-- ===== HERO / HEADER ===== -->
+<p align="center">
+  <!-- Optional hero banner (add /banner.png to your repo, or remove this line) -->
+  <!-- <img src="banner.png" alt="Venkat Potamsetti – Healthcare Data & Analytics" width="100%"> -->
+  
+  <!-- GitHub avatar auto-updates if you change your profile photo -->
+  <img src="https://github.com/potamv01.png" width="150" alt="Venkat Potamsetti headshot" style="border-radius:50%; margin-top:8px;">
 </p>
-# Hi, I’m **Venkat Potamsetti**  
-*Senior Healthcare & Business Data Analyst | SQL · Python · Power BI · Tableau · Healthcare Analytics*
 
-![Profile Views](https://komarev.com/ghpvc/?username=potamv01&label=Profile%20views&color=0e75b6&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Venkat_Potamsetti-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/venkat-potamsetti-dataanalyst)
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Projects-black?logo=github&style=flat-square)](https://github.com/potamv01?tab=repositories)
+<h1 align="center">Venkat Potamsetti</h1>
+<p align="center">
+  <em>Senior Healthcare & Business Data Analyst — SQL · Python · Power BI · Tableau</em>
+</p>
+
+<p align="center">
+  <!-- Badges -->
+  <a href="https://www.linkedin.com/in/venkat-potamsetti-dataanalyst">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/potamv01?tab=repositories">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects">
+  </a>
+  <!-- CV: upload a file named VenkatPotamsetti_CV.pdf to the repo root first -->
+  <a href="https://github.com/potamv01/VenkatPotamsetti/raw/main/VenkatPotamsetti_CV.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20CV-0e75b6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
+  </a>
+</p>
+
+<!-- Quick highlights bar (health-tech theme: blue/teal) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/NHS%20%26%20HealthTech-14b8a6?style=flat-square" alt="NHS & HealthTech">
+  <img src="https://img.shields.io/badge/ETL%20%7C%20Data%20Modeling-0e75b6?style=flat-square" alt="ETL & Data Modeling">
+  <img src="https://img.shields.io/badge/Governance%20%7C%20SOPs-0ea5e9?style=flat-square" alt="Governance & SOPs">
+  <img src="https://img.shields.io/badge/PRINCE2-FND-blueviolet?style=flat-square" alt="PRINCE2">
+</p>
 
 ---
 
-## 🎯 About Me
-Healthcare data professional with experience bridging **clinical operations, analytics, and digital transformation**.  
-I design data models, build automated dashboards, and lead improvement projects that turn insight into measurable results.  
-My goal: make healthcare systems more intelligent, transparent, and people-centred.
+## About Me
+I turn clinical and operational data into measurable outcomes for providers and health-tech teams—blending analytics engineering with delivery and governance. Recent outcomes include **budget +20%**, **admin time –30%**, and **survey capture +25%** through referral-pathway automation, KPI dashboards, and engagement ops. :contentReference[oaicite:0]{index=0}
 
 ---
+
 ## 🩺 Core Expertise
 
-| Domain | Description |
-| :------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Data Analytics & BI** | SQL Server, Power BI, Tableau, Python, R — end-to-end data modelling, dashboards, and automation |
-| **Healthcare Intelligence** | NHS & clinical operations, referral pathways, patient engagement, wait-time analytics |
-| **Project & Process** | PRINCE2, SOP/workflow design, business case development, cross-team collaboration |
-| **Outcome Optimisation** | Using data to drive KPIs: budget growth +20%, admin time –30%, survey engagement +25% |
+| Domain | What I deliver |
+| :-- | :-- |
+| **Analytics & BI** | SQL Server, Python/R, Power BI/Tableau — end-to-end modelling, ETL, reproducible analysis |
+| **Healthcare Intelligence** | Referral pathways, wait-time & utilisation analytics, patient-reported outcomes |
+| **Delivery & Process** | PRINCE2 ways of working, SOPs, “to-be” workflow design, stakeholder comms |
+| **Impact** | Budget growth **+20%**, admin time **–30%**, survey capture **+25%** (privacy-safe, synthetic demos) :contentReference[oaicite:1]{index=1} |
 
 ---
-
 ## 🧱 Featured Projects
 
 | Project | Focus | Tech |
-| :-------------------------------------------- | :---------------------------------------------------------- | :--------------------------- |
-| [**Referral Pathway Automation**](https://github.com/potamv01/referral-pathway-analytics) | Reduced admin load & wait times by automating referrals and KPIs | SQL, Power BI, Python |
-| [**Patient Survey Engagement Ops**](https://github.com/potamv01/patient-survey-engagement-ops) | Boosted feedback capture by 25% through automated prompts & uplift analysis | Python, R, Power BI |
-| [**Cycling Utilisation Forecasting (TFL)**](https://github.com/potamv01/tfl-cycling-forecasting-case-study) | Modelled utilisation patterns for urban-health data | Python, Pandas, Scikit-Learn |
+| :-- | :-- | :-- |
+| **Referral Pathway Automation** | Cut admin & waits via automated KPIs, breach-risk alerts, “to-be” workflows | SQL, Python, Power BI :contentReference[oaicite:2]{index=2} |
+| **Patient Survey Engagement Ops** | +25% capture with prompt scheduling & uplift analysis | Python, R, Power BI :contentReference[oaicite:3]{index=3} |
+| **Cycling Utilisation (TfL)** | Forecasting +13% utilisation; policy-grade comms & dashboards | Python, Pandas, Scikit-Learn :contentReference[oaicite:4]{index=4} |
 
 ---
-
-## 🧰 Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
-![PRINCE2](https://img.shields.io/badge/-PRINCE2-blueviolet)
-
+## 🎓 Certifications & Registration
+<img src="https://img.shields.io/badge/PRINCE2-Foundation-blueviolet?style=flat-square">
+<img src="https://img.shields.io/badge/FEDIP-Registered-0e75b6?style=flat-square">
+<img src="https://img.shields.io/badge/SNOMED%20CT-Certified-14b8a6?style=flat-square">
+<img src="https://img.shields.io/badge/LSE-Data%20Analytics%20Distinction-0ea5e9?style=flat-square">
 ---
-
-## 📊 GitHub Stats
-![Venkat’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=potamv01&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=potamv01&layout=compact)
-
----
-
 ## 📝 Publications & Articles
 
 | Title | Summary | Link |
-| :------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------- |
-| **Harnessing Artificial Intelligence to Improve Patient Safety** | Discusses how AI can enhance clinical decision-making, error prevention, and patient outcomes within healthcare systems. | [Read on Medium →](https://medium.com/@venkatpotamsetti/harnessing-artificial-intelligence-to-improve-patient-safety-73b3443bbc10) |
-| **Introduction** | A short reflection on data, technology, and the journey toward smarter healthcare analytics. | [Read on Medium →](https://medium.com/@venkatpotamsetti/introduction-e894c1344f1e) |
-
-> 🩺 *More writing on AI, healthcare analytics, and data-driven transformation coming soon.*
+| :-- | :-- | :-- |
+| **Harnessing AI to Improve Patient Safety** | How AI supports decision-making, error prevention, and safer care. | [Medium →](https://medium.com/@venkatpotamsetti/harnessing-artificial-intelligence-to-improve-patient-safety-73b3443bbc10) |
+| **Introduction** | A short reflection on the journey toward smarter healthcare analytics. | [Medium →](https://medium.com/@venkatpotamsetti/introduction-e894c1344f1e) |
 
 ---
-
-
 ## 🤝 Let’s Connect
-📧 **venkatpotamsetti@gmail.com**  
-🌐 [LinkedIn – Venkat Potamsetti](https://www.linkedin.com/in/venkat-potamsetti-dataanalyst)  
-📍 Kent | Open to UK-based Data & Analytics roles in Healthcare and Health-Tech
-
----
-
-### ⚡ Quick Note
-All datasets featured here are **synthetic** or **de-identified** to respect confidentiality while showcasing analytics methods.
+Ashford, Kent, UK • venkatpotamsetti@gmail.com • [LinkedIn](https://www.linkedin.com/in/venkat-potamsetti-dataanalyst)
 
 
