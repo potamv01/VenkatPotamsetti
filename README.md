@@ -35,6 +35,11 @@
 </p>
 
 ---
+<p align="center">
+  <a href="https://calendar.app.google/i3Mj3G1QhCxMrE4g8" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Calendar-0e75b6?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Google Calendar">
+  </a>
+</p>
 
 ## About Me
 I turn clinical and operational data into measurable outcomes for providers and health-tech teams, blending analytics engineering with delivery and governance. Recent outcomes include **budget +20%**, **admin time –30%**, and **survey capture +25%** through referral-pathway automation, KPI dashboards, and engagement ops.
