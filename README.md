@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/potamv01.png" width="150" height="150" style="border-radius:50%;">
+</p>
 # Hi, I’m **Venkat Potamsetti**
 *Senior Healthcare & Business Data Analyst | SQL · Python · Power BI · Tableau · Healthcare Analytics*
 
