@@ -1,5 +1,5 @@
 <!-- ===== HERO / HEADER ===== -->
-<p align="left">
+<p align="center">
   <!-- Optional hero banner (add /banner.png to your repo, or remove this line) -->
   <!-- <img src="banner.png" alt="Venkat Potamsetti – Healthcare Data & Analytics" width="100%"> -->
   
