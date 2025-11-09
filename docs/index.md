@@ -9,6 +9,7 @@ title: Home
 # Venkat Potamsetti
 *Leveraging technology to transform healthcare*
 
+**Navigation:** [Home]({{ '/' | relative_url }}) · [Projects]({{ '/projects' | relative_url }}) · [Articles]({{ '/articles' | relative_url }})
 
 <p align="center">
   <img src="https://github.com/potamv01.png" width="120" style="border-radius:50%" alt="Venkat">
@@ -20,7 +21,7 @@ title: Home
 <a href="https://www.linkedin.com/in/venkat-potamsetti-dataanalyst" class="btn" style="background:#0A66C2">LinkedIn</a>
 </p>
 
-**Navigation:** [Home]({{ '/' | relative_url }}) · [Projects]({{ '/projects' | relative_url }}) · [Articles]({{ '/articles' | relative_url }})
+
 
 ---
 
