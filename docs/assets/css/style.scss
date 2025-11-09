@@ -1,0 +1,37 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Your overrides below */
+:root {
+  /* optional: global tweaks */
+}
+
+/* Page background & “card” feel */
+body { background: #f5f9fb; }
+section, article, .page-content {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 1px 6px rgba(0,0,0,.05);
+}
+
+/* Accent colors (health-tech blues/teal) */
+a { color: #0e75b6; }
+h1, h2, h3 { color: #0e75b6; }
+
+/* Cayman buttons class helper */
+.btn {
+  display: inline-block;
+  padding: 8px 14px;
+  margin: 6px 6px 0 0;
+  border-radius: 8px;
+  background: #14b8a6;
+  color: #fff !important;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+/* Center the header block */
+.header-center { text-align: center; }
