@@ -16,7 +16,7 @@ title: Home
 </p>
 *Clinical Strategist · Founder · Innovator*
 <p>
-<a href="https://github.com/potamv01/VenkatPotamsetti/raw/main/VenkatPotamsetti_CV.pdf" class="btn">Download CV (PDF)</a>
+<a href="https://github.com/potamv01/VenkatPotamsetti/Venkat updated CV Document.pdf" class="btn">Download CV (PDF)</a>
 <a href="https://github.com/potamv01?tab=repositories" class="btn" style="background:#0e75b6">GitHub Projects</a>
 <a href="https://www.linkedin.com/in/venkat-potamsetti-dataanalyst" class="btn" style="background:#0A66C2">LinkedIn</a>
 </p>
