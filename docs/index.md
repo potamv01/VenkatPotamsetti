@@ -1,29 +1,30 @@
 ---
-title: Home
+title: My Portfolio
 layout: default
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+---
 
 # Venkat Potamsetti
-*Senior Healthcare & Business Data Analyst — SQL · Python · Power BI · Tableau*
+*Senior Analyst | Healthcare & Business Intelligence : Driving outcomes with Excel · SQL · Python · Power BI · Tableau*
 
 <p align="center">
   <img src="https://github.com/potamv01.png" width="120" style="border-radius:50%" alt="Venkat">
 </p>
-
+*Clinical Strategist · Founder · Innovator*
 <p>
 <a href="https://github.com/potamv01/VenkatPotamsetti/raw/main/VenkatPotamsetti_CV.pdf" class="btn">Download CV (PDF)</a>
 <a href="https://github.com/potamv01?tab=repositories" class="btn" style="background:#0e75b6">GitHub Projects</a>
 <a href="https://www.linkedin.com/in/venkat-potamsetti-dataanalyst" class="btn" style="background:#0A66C2">LinkedIn</a>
 </p>
 
-**Navigation:** [Home]({{ '/' | relative_url }}) · [Projects]({{ '/projects' | relative_url }}) · [Articles]({{ '/articles' | relative_url }})
+**Navigation:** [My Portfolio]({{ '/' | relative_url }}) · [Projects]({{ '/projects' | relative_url }}) · [Articles]({{ '/articles' | relative_url }})
 
 ---
 
 ## About
-My passion lies in harnessing clinical and operational data to deliver quantifiable improvements in performance and care for health-tech teams and providers. Highlights: **budget +20%**, **admin time –30%**, **survey capture +25%** via referral-pathway automation, KPI dashboards, and engagement ops. :contentReference[oaicite:0]{index=0}
+My passion lies in harnessing clinical and operational data to deliver quantifiable improvements in performance and care for health-tech teams and providers. Highlights: **budget +20%**, **admin time –30%**, **survey capture +25%** via referral-pathway automation, KPI dashboards, and engagement ops. 
 
 ## Skills Snapshot
 <span class="skill">Advanced Excel</span>
@@ -36,7 +37,7 @@ My passion lies in harnessing clinical and operational data to deliver quantifia
 <span class="skill">PRINCE2</span>
 
 ## Contact
-**Email:** venkatpotamsetti@gmail.com • **Location:** Ashford, Kent, UK. :contentReference[oaicite:1]{index=1}
+**Email:** venkatpotamsetti@gmail.com • **Location:** Ashford, Kent, UK.
 
 ---
 
