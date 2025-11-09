@@ -7,11 +7,18 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
   <body>
-    <!-- PAGE CONTENT -->
+
+    <!-- HERO HEADER -->
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ site.title }}</h1>
+      <h2 class="project-tagline">{{ site.description }}</h2>
+      <a href="{{ site.github.repository_url | default: 'https://github.com/potamv01' }}" class="btn">View on GitHub</a>
+    </header>
+
+    <!-- PAGE BODY -->
     <main class="page-content" aria-label="Content">
       {{ content }}
     </main>
-
     <!-- FOOTER -->
     <footer class="site-footer" style="text-align:center; margin-top:2rem;">
       <img src="{{ '/assets/sfedip.png' | relative_url }}" 
