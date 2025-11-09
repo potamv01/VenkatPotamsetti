@@ -1,7 +1,7 @@
 
 ---
-title: Articles
 layout: default
+title: Articles
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
