@@ -7,7 +7,8 @@ layout: default
 ---
 
 # Venkat Potamsetti
-*Driving outcomes with Excel · SQL · Python · Power BI · Tableau*
+*SFEDIP: Senior Healthcare & Business Intelligence Analyst*
+**Excel · SQL · Python · Power BI · Tableau**
 
 <p align="center">
   <img src="https://github.com/potamv01.png" width="120" style="border-radius:50%" alt="Venkat">
