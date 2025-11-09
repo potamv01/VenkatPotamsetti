@@ -7,8 +7,8 @@ layout: default
 ---
 
 # Venkat Potamsetti
-*SFEDIP: Senior Healthcare & Business Intelligence Analyst*
-**Excel · SQL · Python · Power BI · Tableau**
+*SFEDIP accredited Senior Healthcare & Business Intelligence Analyst*
+
 
 <p align="center">
   <img src="https://github.com/potamv01.png" width="120" style="border-radius:50%" alt="Venkat">
