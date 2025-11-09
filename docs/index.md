@@ -7,7 +7,7 @@ title: Home
 ---
 
 # Venkat Potamsetti
-*SFEDIP accredited Senior Healthcare & Business Intelligence Analyst*
+*Leveraging technology to transform healthcare*
 
 
 <p align="center">
