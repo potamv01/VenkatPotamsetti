@@ -1,6 +1,6 @@
 ---
-title: My Portfolio
 layout: default
+title: Home
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
@@ -20,7 +20,7 @@ layout: default
 <a href="https://www.linkedin.com/in/venkat-potamsetti-dataanalyst" class="btn" style="background:#0A66C2">LinkedIn</a>
 </p>
 
-**Navigation:** [My Portfolio]({{ '/' | relative_url }}) · [Projects]({{ '/projects' | relative_url }}) · [Articles]({{ '/articles' | relative_url }})
+**Navigation:** [Home]({{ '/' | relative_url }}) · [Projects]({{ '/projects' | relative_url }}) · [Articles]({{ '/articles' | relative_url }})
 
 ---
 
