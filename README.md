@@ -64,6 +64,7 @@ I turn clinical and operational data into measurable outcomes for providers and 
 | **Referral Pathway Automation** | Cut admin & waits via automated KPIs, breach-risk alerts, “to-be” workflows | SQL, Python, Power BI |
 | **Patient Survey Engagement Ops** | +25% capture with prompt scheduling & uplift analysis | Excel, Python, R, Power BI |
 | **Cycling Utilisation (TfL)** | Forecasting +13% utilisation; policy-grade comms & dashboards | Tableau, Python, Pandas, Scikit-Learn |
+| **AI Agents Capstone (Kaggle)** | Tool-use, RAG, and evaluation notebook from the Kaggle × Google intensive. [Kaggle →](https://www.kaggle.com/code/venkatapotamsetti/capstone-lionai-py) | Python, LLMs, Agents |
 
 ---
 ## 🎓 Certifications & Registration

@@ -54,7 +54,10 @@ I build analytics products that move quickly from discovery to adoption. Each re
     </div>
     <h3>AI Agents Lab</h3>
     <p>Notes, notebooks, and capstone from the 5-Day AI Agents Intensive (Kaggle × Google) covering tool use, RAG, and evaluation.</p>
-    <p><a class="btn" href="https://github.com/potamv01/ai-agents-lab">View Repo</a></p>
+    <p>
+      <a class="btn" href="https://github.com/potamv01/ai-agents-lab">View Repo</a>
+      <a class="btn" href="https://www.kaggle.com/code/venkatapotamsetti/capstone-lionai-py">Kaggle Capstone</a>
+    </p>
   </div>
 
 </div>

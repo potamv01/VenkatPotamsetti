@@ -50,7 +50,7 @@ title: Home
 <span class="skill">Go-to-Market</span>
 
 ## AI capabilities from my repositories
-- **AI Agents Lab** — capstone notebooks that wire up tools, memory, and evaluation for chat-style assistants. [View repo →](https://github.com/potamv01/ai-agents-lab)
+- **AI Agents Lab** — capstone notebooks that wire up tools, memory, and evaluation for chat-style assistants. [View repo →](https://github.com/potamv01/ai-agents-lab) · [Kaggle capstone notebook →](https://www.kaggle.com/code/venkatapotamsetti/capstone-lionai-py)
 - **Referral Pathway Analytics** — LLM-powered summary drafts for clinical governance packs alongside SQL/Python automation. [View repo →](https://github.com/potamv01/referral-pathway-analytics)
 - **Patient Survey Engagement Ops** — prompt templates and uplift measurement for outreach experiments. [View repo →](https://github.com/potamv01/patient-survey-engagement-ops)
 
