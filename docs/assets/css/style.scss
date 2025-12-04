@@ -2,46 +2,166 @@
 ---
 
 // import Cayman defaults
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
 @import "{{ site.theme }}";
 
-/* Improve hero contrast */
-.page-header {
-  /* keep the gradient, but darken for readability */
-  background-image: linear-gradient(120deg, #0b5fa5 0%, #0d8b73 100%) !important;
-  padding: 2.5rem 1rem 2rem;
+// Typography & base tweaks
+body {
+  background:#f5f9fb;
+  font-family:'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  color:#0f172a;
 }
+
+h1, h2, h3, h4 {
+  color:#0b3760;
+  letter-spacing:-0.01em;
+}
+
+p { line-height:1.65; }
+
+// Hero styling
+.page-header {
+  background-image: linear-gradient(120deg, #0b5fa5 0%, #0d8b73 100%) !important;
+  padding: 2.7rem 1.2rem 2.2rem;
+  text-align:center;
+  position:relative;
+  overflow:hidden;
+}
+
+.page-header::after {
+  content:"";
+  position:absolute;
+  inset:0;
+  background: radial-gradient(circle at 20% 20%, rgba(255,255,255,.08), transparent 40%),
+              radial-gradient(circle at 80% 10%, rgba(255,255,255,.06), transparent 35%);
+  pointer-events:none;
+}
+
 .project-name, .project-tagline {
   color: #ffffff !important;
   text-shadow: 0 1px 3px rgba(0,0,0,.25);
 }
 
-/* Body readability + subtle “cards” */
-body { background:#f5f9fb; }
+.project-tagline { max-width:700px; margin:0.6rem auto 0; }
+
+// Body readability + subtle “cards”
 .page-content {
-  background:#fff; border-radius:12px; padding:1.2rem;
-  box-shadow:0 2px 10px rgba(0,0,0,.04);
+  background:#fff;
+  border-radius:16px;
+  padding:1.6rem;
+  box-shadow:0 14px 40px rgba(15,23,42,.06);
+  margin-top:-2rem;
+  position:relative;
 }
 
-/* Buttons used in Markdown via {: .btn } */
+// Buttons used in Markdown via {: .btn }
 .btn {
-  display:inline-block; padding:8px 14px; border-radius:8px;
-  background:#14b8a6; color:#fff !important; font-weight:600;
-  text-decoration:none; margin:4px 6px 0 0;
+  display:inline-block;
+  padding:10px 16px;
+  border-radius:10px;
+  background:#14b8a6;
+  color:#fff !important;
+  font-weight:700;
+  text-decoration:none;
+  margin:6px 8px 0 0;
+  box-shadow:0 8px 18px rgba(20,184,166,.22);
 }
 
-/* Simple grid for project cards */
+.btn:hover { filter:brightness(0.95); }
+
+// Top navigation links
+.nav-inline a {
+  display:inline-flex;
+  align-items:center;
+  padding:6px 10px;
+  border-radius:999px;
+  background:#e0f2fe;
+  color:#0f172a;
+  font-weight:600;
+  text-decoration:none;
+  margin-right:8px;
+  border:1px solid #d0e7fb;
+}
+
+.nav-inline a:hover { background:#cfe6fb; }
+
+// Simple grid for project cards
 .grid {
-  display:grid; gap:14px; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  display:grid;
+  gap:16px;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
 }
+
 .card {
-  background:#fff; border-radius:10px; padding:14px;
-  box-shadow:0 1px 6px rgba(0,0,0,.06);
+  background:#fff;
+  border-radius:12px;
+  padding:14px;
+  box-shadow:0 1px 12px rgba(0,0,0,.08);
+  border:1px solid #e5eaf0;
 }
-.card img { width:100%; border-radius:8px; }
 
-/* Skills chips */
-.skill { display:inline-block; padding:6px 10px; border-radius:999px;
-  background:#e6f2fb; color:#0e75b6; font-weight:600; margin:4px 6px 0 0; }
+.card img { width:100%; border-radius:10px; }
 
-/* Footer spacing */
+.card h3 { margin-top:0.75rem; }
+
+.card .meta {
+  display:flex;
+  flex-wrap:wrap;
+  gap:6px;
+  margin-bottom:6px;
+}
+
+.badge {
+  display:inline-block;
+  padding:4px 8px;
+  border-radius:999px;
+  background:#eef2ff;
+  color:#3730a3;
+  font-weight:700;
+  font-size:0.85em;
+}
+
+// Skills chips
+.skill {
+  display:inline-block;
+  padding:6px 10px;
+  border-radius:999px;
+  background:#e6f2fb;
+  color:#0e75b6;
+  font-weight:700;
+  margin:4px 6px 0 0;
+}
+
+// Impact / info blocks
+.callout {
+  background:#0e75b6;
+  color:#e9f6ff;
+  border-radius:12px;
+  padding:14px 16px;
+  box-shadow:0 10px 26px rgba(14,117,182,.22);
+}
+
+.metrics {
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap:14px;
+}
+
+.metric {
+  background:#f8fafc;
+  border:1px solid #e2e8f0;
+  border-radius:12px;
+  padding:12px 14px;
+  box-shadow: inset 0 1px 0 rgba(255,255,255,.6);
+}
+
+.metric strong { font-size:1.4rem; color:#0e75b6; }
+
+// Footer spacing
 .site-footer { background:#f5f9fb; }
+
+// Responsive tweaks
+@media (max-width: 640px) {
+  .page-content { padding:1.2rem; }
+  .btn { width:100%; text-align:center; margin-right:0; }
+}
