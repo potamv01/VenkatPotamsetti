@@ -21,11 +21,11 @@ title: Home
 <p>
   <a href="https://github.com/potamv01/VenkatPotamsetti/raw/main/Venkat%20updated%20CV%20Document.pdf" class="btn">Download CV (PDF)</a>
   <a href="https://github.com/potamv01?tab=repositories" class="btn" style="background:#0e75b6">GitHub Projects</a>
-  <a href="https://www.linkedin.com/in/venkat-potamsetti-dataanalyst" class="btn" style="background:#0A66C2">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/venkat-potamsetti-businessdataanalyst/" class="btn" style="background:#0A66C2">LinkedIn</a>
 </p>
 
 <p class="callout">
-  Clinical strategist & analytics leader turning complex operational data into decisions. I blend SQL/Python, BI, and SOPs to deliver reliable reporting, automation, and engagement programmes for health-tech teams.
+  Clinical strategist & analytics leader turning complex operational data into decisions. I blend SQL/Python, BI, and SOPs to deliver reliable reporting, automation, and engagement programmes for health-tech teams — and I translate those wins into repeatable service offers through founder-led sales and partnerships.
 </p>
 
 ## Impact snapshots
@@ -46,11 +46,18 @@ title: Home
 <span class="skill">PRINCE2</span>
 <span class="skill">LLM Apps & Agents</span>
 <span class="skill">Prompt & RAG Design</span>
+<span class="skill">Entrepreneurial Ops</span>
+<span class="skill">Go-to-Market</span>
 
 ## AI capabilities from my repositories
 - **AI Agents Lab** — capstone notebooks that wire up tools, memory, and evaluation for chat-style assistants. [View repo →](https://github.com/potamv01/ai-agents-lab)
 - **Referral Pathway Analytics** — LLM-powered summary drafts for clinical governance packs alongside SQL/Python automation. [View repo →](https://github.com/potamv01/referral-pathway-analytics)
 - **Patient Survey Engagement Ops** — prompt templates and uplift measurement for outreach experiments. [View repo →](https://github.com/potamv01/patient-survey-engagement-ops)
+
+## Entrepreneurial highlights
+- Built and productised analytics offers (referral-pathway KPIs, engagement ops, AI agents) from discovery through founder-led sales conversations and partnership pilots.
+- Crafted go-to-market collateral (demo decks, KPI scorecards, operating guides) that align with clinical/ops buyers while keeping compliance front and centre.
+- Grew delivery capacity by standardising SOPs, issue triage, and success metrics so engagements are repeatable and scalable.
 
 ## Healthcare lens
 - Referral pathways, wait-time and utilisation analytics

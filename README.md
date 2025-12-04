@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- Badges -->
-  <a href="https://www.linkedin.com/in/venkat-potamsetti-dataanalyst">
+  <a href="https://www.linkedin.com/in/venkat-potamsetti-businessdataanalyst/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/potamv01?tab=repositories">
@@ -42,7 +42,7 @@
 </p>
 
 ## About Me
-I turn clinical and operational data into measurable outcomes for providers and health-tech teams, blending analytics engineering with delivery and governance. Recent outcomes include **budget +20%**, **admin time –30%**, and **survey capture +25%** through referral-pathway automation, KPI dashboards, and engagement ops.
+I turn clinical and operational data into measurable outcomes for providers and health-tech teams, blending analytics engineering with delivery and governance. Recent outcomes include **budget +20%**, **admin time –30%**, and **survey capture +25%** through referral-pathway automation, KPI dashboards, and engagement ops — then productising those wins into offers backed by founder-led sales and partner pilots.
 
 ---
 
@@ -53,6 +53,7 @@ I turn clinical and operational data into measurable outcomes for providers and 
 | **Analytics & BI** | SQL Server, Python/R, Power BI/Tableau — end-to-end modelling, ETL, reproducible analysis |
 | **Healthcare Intelligence** | Referral pathways, wait-time & utilisation analytics, patient-reported outcomes |
 | **Delivery & Process** | PRINCE2 ways of working, SOPs, “to-be” workflow design, stakeholder comms |
+| **Entrepreneurship** | Founder-led sales, partner pilots, KPI scorecards, and playbooks to make services repeatable |
 | **Impact** | Budget growth **+20%**, admin time **–30%**, survey capture **+25%** (privacy-safe, synthetic demos) |
 
 ---
@@ -79,7 +80,20 @@ I turn clinical and operational data into measurable outcomes for providers and 
 | **Introduction** | A short reflection on the journey toward smarter healthcare analytics. | [Medium →](https://medium.com/@venkatpotamsetti/introduction-e894c1344f1e) |
 
 ---
+## 🧪 Testing
+
+Automated CI builds the static site on every push/PR to catch broken layouts early:
+
+```bash
+# install dependencies and build the docs site
+bundle install
+bundle exec jekyll build --source docs --destination _site
+```
+
+If Bundler cannot reach rubygems.org from your network, try again with a VPN or from GitHub Actions (where the workflow runs by default).
+
+---
 ## 🤝 Let’s Connect
-Ashford, Kent, UK • venkatpotamsetti@gmail.com • [LinkedIn](https://www.linkedin.com/in/venkat-potamsetti-dataanalyst)
+Ashford, Kent, UK • venkatpotamsetti@gmail.com • [LinkedIn](https://www.linkedin.com/in/venkat-potamsetti-businessdataanalyst/)
 
 
