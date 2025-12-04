@@ -23,7 +23,7 @@ I build analytics products that move quickly from discovery to adoption. Each re
       <span class="badge">SQL</span><span class="badge">Python</span><span class="badge">Power BI</span>
     </div>
     <h3>Referral Pathway Analytics</h3>
-    <p>Automated KPIs, breach-risk alerts, and “to-be” workflow design. Simulated results reflect –30% admin time and clearer SLA tracking.</p>
+    <p>Automated KPIs, breach-risk alerts, and “to-be” workflow design with LLM-drafted governance summaries. Simulated results reflect –30% admin time and clearer SLA tracking.</p>
     <p><a class="btn" href="https://github.com/potamv01/referral-pathway-analytics">View Repo</a></p>
   </div>
 
@@ -33,7 +33,7 @@ I build analytics products that move quickly from discovery to adoption. Each re
       <span class="badge">Python</span><span class="badge">R</span><span class="badge">Power BI</span>
     </div>
     <h3>Patient Survey Engagement Ops</h3>
-    <p>Prompt scheduler + uplift analysis for feedback capture. Simulated +25% survey response; includes A/B evaluation notebook.</p>
+    <p>Prompt scheduler + uplift analysis for feedback capture, with templated outreach copy for experiments. Simulated +25% survey response; includes A/B evaluation notebook.</p>
     <p><a class="btn" href="https://github.com/potamv01/patient-survey-engagement-ops">View Repo</a></p>
   </div>
 
@@ -53,7 +53,7 @@ I build analytics products that move quickly from discovery to adoption. Each re
       <span class="badge">LLMs</span><span class="badge">Agents</span><span class="badge">Python</span>
     </div>
     <h3>AI Agents Lab</h3>
-    <p>Notes, notebooks, and capstone from the 5-Day AI Agents Intensive (Kaggle × Google).</p>
+    <p>Notes, notebooks, and capstone from the 5-Day AI Agents Intensive (Kaggle × Google) covering tool use, RAG, and evaluation.</p>
     <p><a class="btn" href="https://github.com/potamv01/ai-agents-lab">View Repo</a></p>
   </div>
 
