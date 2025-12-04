@@ -20,8 +20,8 @@
   <a href="https://github.com/potamv01?tab=repositories">
     <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects">
   </a>
-  <!-- CV: upload a file named VenkatPotamsetti_CV.pdf to the repo root first -->
-  <a href="https://github.com/potamv01/VenkatPotamsetti/raw/main/VenkatPotamsetti_CV.pdf" download>
+  <!-- CV stored in the repo root as “Venkat updated CV Document.pdf” -->
+  <a href="https://github.com/potamv01/VenkatPotamsetti/raw/main/Venkat%20updated%20CV%20Document.pdf" download>
     <img src="https://img.shields.io/badge/Download%20CV-0e75b6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
   </a>
 </p>
